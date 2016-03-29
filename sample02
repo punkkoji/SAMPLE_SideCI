@@ -1,0 +1,14 @@
+# -*- coding: utf-8 -*- 
+
+print u"モジュールのロード"
+
+if
+
+def test():
+    print u"関数：testを呼び出しました"
+
+if __na__ == "__main__":
+
+    print "python-izm"
+#   print "パイソンイズム"
+    test()
